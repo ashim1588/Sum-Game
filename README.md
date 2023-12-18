@@ -1,3 +1,13 @@
+
+![IMG_0863](https://github.com/ashim1588/Sum-Game/assets/87517867/2e92afdf-f8c4-4aba-a328-08aec29e77c1)
+
+![IMG_0862](https://github.com/ashim1588/Sum-Game/assets/87517867/720bde1b-e220-48cc-a739-63537d549628)
+
+![IMG_0864](https://github.com/ashim1588/Sum-Game/assets/87517867/2a27eb56-764d-44bf-a3df-452adef5ca34)
+
+![IMG_0865](https://github.com/ashim1588/Sum-Game/assets/87517867/42e70c7c-b34a-4566-b0fa-a3a4ff494d8d)
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
